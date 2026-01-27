@@ -1,0 +1,8 @@
+2) How do you run a shell script from the command line?
+To run a shell script from the command line, we need to follow these steps:
+
+Make sure the script file has executable permissions using the chmod command:
+chmod +x myscript.sh
+Execute the script using its filename:
+./myscript.sh
+Here you have to replace "myscript.sh" with yours script name.
